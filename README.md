@@ -1,5 +1,5 @@
 # Docker_lab
-There are some commands which I used in this lab
-docker build --build-arg PORT=8080 . -t application:latest
-docker-compose build
-docker-compose up
+There are some commands which I used in this lab/n
+docker build --build-arg PORT=8080 . -t application:latest/n
+docker-compose build/n
+docker-compose up/n
