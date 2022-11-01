@@ -1,0 +1,23 @@
+{
+    "name": "Docker_lab",
+    "version": "1.0.0",
+    "description": "nodeapp_docker",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Gr1nchikJ/Docker_lab.git"
+    },
+    "keywords": [
+      "docker"
+    ],
+    "author": "GrinchikJ",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Gr1nchikJ/Docker_lab/issues"
+    },
+    "homepage": "https://github.com/Gr1nchikJ/Docker_lab#readme"
+  }
